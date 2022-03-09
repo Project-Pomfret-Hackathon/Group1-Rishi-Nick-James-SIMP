@@ -6,6 +6,8 @@
 This program is avaliable natively via Objective-C, and over the Web via React and TypeScript.
 To run the Objective-C program, navigate to `clang/studentInfo.m` and run the file.
 
+The API is a separate TypeScript program based on Express. Navigate to the `api` folder to view code.
+
 ### To run the JavaScript program:
 1. Clone this repository
 2. run `npm install` from the root directory
