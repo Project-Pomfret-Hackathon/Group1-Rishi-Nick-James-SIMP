@@ -8,7 +8,7 @@
 
 ### MongoDB Connection
 
-**The application will NOT connect to MongoDB successfully without you first adding in your Atlas URI.
+**The application will NOT connect to MongoDB successfully without you first adding in your Atlas URI.**
 
 - Create an account and a server with MongoDB atlas cloud.
 - Create a file in the root directory called `.env`, and add the following text: 
